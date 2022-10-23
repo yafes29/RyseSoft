@@ -44,7 +44,7 @@
 </p>
 
 
-How To Use
+ ### 🚩 How To Use
 
 To clone and run this application, you'll need Git
 ```
