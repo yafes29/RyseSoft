@@ -1,5 +1,5 @@
 # RyseSoft
-[Click for my project👉]()
+[Click for my project👉](https://yafes29.github.io/RyseSoft/)
 
 ### 🚩 PROJECT STRUCTURE
 
@@ -38,7 +38,11 @@
 - SEO
 
 ### 🚩 How does my project look
-[]()
+
+<p align=center>
+<img src="https://user-images.githubusercontent.com/99862849/197418909-ee0e11e1-15dc-49c8-8e02-1b7dcf6c9639.gif">
+</p>
+
 
 How To Use
 
